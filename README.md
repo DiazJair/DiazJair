@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DiazJair
 - 👀 I’m interested in DataScience.
 - 🌱 I’m currently learning python, R, Bash, Arduino. 
-- 📫 How to reach me: jaediazr@ccg.unam.mx
+- 📫 How to reach me: jaediazr@ccg.unam.mx, diaz.jair.e@gmail.com
 
 <!---
 DiazJair/DiazJair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
